@@ -1,5 +1,9 @@
 # Rocket Blaster
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://rocket-blaster-lilac.vercel.app/)
+
+Live demo: https://rocket-blaster-lilac.vercel.app/
+
 A minimalist, fast, canvas-based arcade shooter built with Next.js and React. Pilot a rocket, survive waves from all directions, chain kills for big scores, and enjoy dynamic space backdrops that evolve over time.
 
 ## Overview
