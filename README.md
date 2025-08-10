@@ -4,6 +4,8 @@
 
 Live demo: https://rocket-blaster-lilac.vercel.app/
 
+![Gameplay Preview](public/preview.png)
+
 A minimalist, fast, canvas-based arcade shooter built with Next.js and React. Pilot a rocket, survive waves from all directions, chain kills for big scores, and enjoy dynamic space backdrops that evolve over time.
 
 ## Overview
